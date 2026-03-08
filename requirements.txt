@@ -14,3 +14,6 @@ pypdf
 beautifulsoup4
 lxml
 tqdm
+langchain-core
+requests
+langchain-text-splitters
